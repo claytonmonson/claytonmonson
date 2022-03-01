@@ -1,5 +1,9 @@
 ## Olá. Sou Clayton Monson !   
 
+- Atualmente, trabalhando com desenvolvimento em PL/SQL  
+- Estudando *Java* e *Elixir*
+
+### Resumo do perfil  
 Vinte e sete anos trabalhando em desenvolvimento de sistemas, principalmente ligados a arquitetura Oracle.  
 No período de 1993 a 1999, atuei como desenvolvedor de sistemas no Banco Meridional do Brasil, especificamente na área de repasses de recursos do BNDES. Após, até 2014, atuei como desenvolvedor no segmento de cooperativas de crédito, Sicredi, tendo atuado no projeto e implementação da solução responsável pelo Sistema de Pagamentos Brasileiro.  
 De 2014 até 2020 atuei no suporte, especificamente Gestão de Problemas e Incidentes, sendo responsável por uma das equipes de suporte N2.  
