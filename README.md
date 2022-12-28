@@ -16,3 +16,10 @@ Resumo de Qualificações:
 - Levantamento de requisitos;  
 - Alta capacidade para identificação e resolução de problemas;  
 - Facilidade de aprendizado de diferentes tecnologias e linguagens.  
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytonmonson&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claytonmonson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
